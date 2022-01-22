@@ -13,7 +13,7 @@ They have their own solutions. However, I will post my own solutions which can b
 
 1. [System Expert](https://www.algoexpert.io/systems/product)
 2. [towardsdatascience articles](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
-
+3. [Hussein Nasser's Youtube Channel](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 
 ### Design examples:
 1. [task scheduling](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
