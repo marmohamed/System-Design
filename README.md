@@ -34,6 +34,8 @@ They have their own solutions. However, I will post my own solutions which can b
 
 * Caching
 
+* Hashing
+
 * Databases
 
     - Data can be either:
@@ -41,6 +43,9 @@ They have their own solutions. However, I will post my own solutions which can b
         2. Structured
         3. Graph
         4. key-value
+    - ACID
+        - Atomicity
+        - 
     - Row-based vs Column-based tables:
         - In structured-based storage such as SQL, aatabase engines store data in pages, each page contains several records. Either we store all the values of a column over pages, then go to the next column and so on which is column-based, or store or the columns of a row, then the next row and so on which is row-based.
         - column-based tables are better in compression, aggregation based on one column, and worse if we will select values from multiple columns.
@@ -49,15 +54,23 @@ They have their own solutions. However, I will post my own solutions which can b
         - Vertical Partioning: split columns into partitions.
         - Indices on horizontally partioned tables are smaller, so it will more probably fir in memory than the whole index.
     - Sharding
-    - Indices
+    - Replication
+    - Indexes
+    - Connection Pooling
+        - Instead of establishing a connection with the database and closing that established connection, you cache a list of connections to use. When you need to talk to the database, you will use one of these established connections and you will not waste time establishing a new connection. However, you will have to wait if all your cached connections are being used.
     
-
-* Messaging
-
 * Networking
-
     - Protocols
+        - IP
+        - TCP
+        - HTTP
+        - HTTPS
+        - UDP
+    - Sockets
     - Peer-to-peer network
 
+* Streaming
+
+* Publish/subscribe
 
 
