@@ -15,6 +15,9 @@ They have their own solutions. However, I will post my own solutions which can b
 2. [towardsdatascience articles](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
 3. [Hussein Nasser's Youtube Channel](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 
+## Books:
+1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+
 ### Design examples:
 1. [task scheduling](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 
