@@ -14,6 +14,7 @@ They have their own solutions. However, I will post my own solutions which can b
 1. [System Expert](https://www.algoexpert.io/systems/product)
 2. [towardsdatascience articles](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
 3. [Hussein Nasser's Youtube Channel](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+4. [igotanoffer blog articles](https://igotanoffer.com/blogs/tech/network-protocols-proxies-system-design-interview)
 
 ## Books:
 1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
@@ -36,6 +37,15 @@ They have their own solutions. However, I will post my own solutions which can b
     - Reverse Proxy
 
 * Caching
+    - hit / miss
+    - Writing policies:
+        1. write-through
+        2. write-behind
+        3. write-around
+    - Replacement polices:
+        1. Least recently used
+        2. Least frequently used
+        3. Random selection
 
 * Hashing
 
