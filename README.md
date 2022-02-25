@@ -11,15 +11,20 @@ They have their own solutions. However, I will post my own solutions which can b
 
 ## My recommendations:
 
+
+## Books:
+* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
+* [system design interview, an insider guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+
+## Other
+
 * [System Expert](https://www.algoexpert.io/systems/product)
 * [MIT Distributed Systems Course](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-* [system design interview, an insider guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 * [towardsdatascience articles](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
 * [Hussein Nasser's Youtube Channel](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 * [igotanoffer blog articles](https://igotanoffer.com/blogs/tech/network-protocols-proxies-system-design-interview)
 
-## Books:
-1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 ### Design examples:
 1. [task scheduling](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
