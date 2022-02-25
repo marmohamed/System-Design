@@ -11,10 +11,12 @@ They have their own solutions. However, I will post my own solutions which can b
 
 ## My recommendations:
 
-1. [System Expert](https://www.algoexpert.io/systems/product)
-2. [towardsdatascience articles](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
-3. [Hussein Nasser's Youtube Channel](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
-4. [igotanoffer blog articles](https://igotanoffer.com/blogs/tech/network-protocols-proxies-system-design-interview)
+* [System Expert](https://www.algoexpert.io/systems/product)
+* [MIT Distributed Systems Course](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+* [system design interview, an insider guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+* [towardsdatascience articles](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
+* [Hussein Nasser's Youtube Channel](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+* [igotanoffer blog articles](https://igotanoffer.com/blogs/tech/network-protocols-proxies-system-design-interview)
 
 ## Books:
 1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
